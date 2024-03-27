@@ -78,4 +78,4 @@
 
 # 接入方和SUG SDK调用时序图
 
-![img.jpg](img.jpg)
+![img.png](img.png)
